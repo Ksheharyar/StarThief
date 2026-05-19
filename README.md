@@ -11,7 +11,7 @@ https://mohd-sheharyar.itch.io/star-thief
 
 ---
 
-# 🎯 Game Overview
+# 🎯  Game Overview
 
 Step into the world of Star Thief and test your reflexes in an exciting star-collecting adventure. Navigate through challenging environments, avoid dangerous obstacles, and collect as many stars as possible while aiming for the highest score.
 
