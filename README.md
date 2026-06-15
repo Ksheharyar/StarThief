@@ -17,7 +17,7 @@ Step into the world of Star Thief and test your reflexes in an exciting star-col
 
 The game focuses on:
 - ⭐ Star collection mechanics  
-- ⚠️ Obstacle avoidance
+- ⚠️ Obstacle avoidance 
 - 🎮 Arcade-style gameplay
 - 🚀 Fast-paced progression
 - 🧩 Reflex-based challenges
