@@ -7,7 +7,7 @@ Star Thief is a fun and fast-paced arcade-style game where players collect stars
 # 🎮 Play the Game
  
 🌍 Itch.io:   
-https://mohd-sheharyar.itch.io/star-thief
+https://mohd-sheharyar.itch.io/star-thief 
 
 ---
    
