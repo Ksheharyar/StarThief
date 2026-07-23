@@ -1,8 +1,7 @@
   # ⭐ Star Thief 
   
 Star Thief is a fun and fast-paced arcade-style game where players collect stars, avoid obstacles, and survive increasingly difficult gameplay challenges. The game focuses on reflex-based mechanics, smooth movement, and score-driven progression to create an engaging casual gaming experience.
-
----
+ 
 
 # 🎮 Play the Game
  
